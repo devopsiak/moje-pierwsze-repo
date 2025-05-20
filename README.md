@@ -1,1 +1,3 @@
 Update pliku
+
+Poprawa skalowalnosci
