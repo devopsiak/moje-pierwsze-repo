@@ -5,3 +5,5 @@ Nowa linia tekstu`
 Update pliku
 
 Poprawa skalowalnosci
+
+Plik 1
